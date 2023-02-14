@@ -1,5 +1,6 @@
 # python-command-line-tetris  
-![image](https://user-images.githubusercontent.com/39601174/218602407-c4c276a3-6935-4f11-ba4e-064ff8b823d7.png)
+
+[Screencast from 2023-02-13 16-16-30.webm](https://user-images.githubusercontent.com/39601174/218605448-45eeb377-7b9e-4069-a337-68acbadca1b6.webm)
 
 
 This project is a game of tetris, played in the command line, made using python.
