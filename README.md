@@ -1,6 +1,7 @@
 # python-command-line-tetris  
 
-[Screencast from 2023-02-13 16-16-30.webm](https://user-images.githubusercontent.com/39601174/218605448-45eeb377-7b9e-4069-a337-68acbadca1b6.webm)
+[tetris.webm](https://user-images.githubusercontent.com/39601174/218605503-73649511-bd05-496c-9cd3-ecca41a20405.webm)
+
 
 
 This project is a game of tetris, played in the command line, made using python.
