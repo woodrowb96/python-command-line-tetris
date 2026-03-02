@@ -5,7 +5,19 @@
 
 A command line based Tetris game written in python.
 
-This project uses the getkey package to get user input
+## Setup
 
-To play, run python3 tetris.py
+This project requires getkey.
+
+To install:
+
+```
+pip install -r requirements.txt
+```
+
+## Usage
+
+```
+python3 tetris.py
+```
 
