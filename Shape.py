@@ -84,7 +84,7 @@ class Line(Shape):
         if self.description == Shape_coords.LINE_HORIZONTAL:
             self.description = Shape_coords.LINE_VERTICAL
         else:
-            self.description = Shape_coords.LINES_HORIZONTAL
+            self.description = Shape_coords.LINE_HORIZONTAL
          
     def un_rotate(self):
         self.rotate() 
